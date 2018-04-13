@@ -34,7 +34,7 @@ by looking at the `setup.py` files of the different dicaso components.
   - Bieke Decaesteker
   - Jolien Dewyn
 - bidali:
-  - Jolien Dewyn
+  - Jolien De Wyn
   - Carolina Nunes
 - pyni:
   - Carolina Nunes
