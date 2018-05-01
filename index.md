@@ -1,7 +1,7 @@
 # Digital Caviar Solutions
 <img title="dicaso logo" src="logos/dicaso-text-logo.svg" width="200">
 
-## Components
+## Mission statement
 
 Digital Caviar Solutions houses tools developed by Christophe Van
 Neste and collaborators. The main focus is open source software for
