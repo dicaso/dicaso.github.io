@@ -18,7 +18,7 @@ A graphical user interface is under way, coined [pycassos](https://github.com/di
 For more information, see the [dicaso](https://github.com/dicaso) github organization page.
 
 ## Visual overview and dependencies between the tools
-<img title="dicaso tools overview" src="logos/dicaso-uni.svg">
+<img title="dicaso tools overview" src="logos/dicaso-uni.png">
 
 ## Acknowledgments
 
